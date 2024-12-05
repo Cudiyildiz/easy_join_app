@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564992148472",
+    "project_id": "egitim-450d8",
+    "storage_bucket": "egitim-450d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564992148472:android:3d7908e736051614928c0d",
+        "android_client_info": {
+          "package_name": "com.example.easy_join"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtla72BDLTms46IeVrwBs5IDWN7loOkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
